@@ -1,0 +1,20 @@
+{
+  "name": "ProjectOne",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Conceptinfo/BaseProject",
+  "authors": [
+    "Maxime Mélinon <maxime@melinon.fr>",
+    "Jordane ALLOUCHE <jordane.allouche@conceptinfo.fr>"
+  ],
+  "license": "Proprietary",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
